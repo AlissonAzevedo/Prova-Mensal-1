@@ -1,0 +1,3 @@
+A orientação a objetos nos permite organizar e simplificar códigos permitindo dividisão em partes menores para resolução do problema.
+Classe é a classificação do objeto, que apresenta objetos com caracteristicas semelhantes.
+
