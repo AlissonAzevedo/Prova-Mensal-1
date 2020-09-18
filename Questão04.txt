@@ -1,0 +1,5 @@
+classes 
+bomba - atributos; metodos explodir
+jogada - atributos; metodos mover
+tabuleiro - atributos; metodos
+zonas adjacentes - atributos; metodos - informar o numero de bombas adjacentes
